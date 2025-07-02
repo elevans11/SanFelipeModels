@@ -1,0 +1,3 @@
+This folder contains the necessary matlab scripts and functions for reproducing the elastic deformation models included in Anderson, E.M., A.K. Ault, and E.L. Evans, Bridging apatite (U-Th)/He thermochronometry and geodesy to quantify the evolution of vertical deformation on the San Felipe fault zone, California, USA, in prep. 
+
+Models require 3-D InSAR decomposition of Xu et al., 2021 (not included), and grdread2 (not included), from the Matlab Central File Exchange: Kelsey Jordahl (2025). grdread2 (https://www.mathworks.com/matlabcentral/fileexchange/25683-grdread2), MATLAB Central File Exchange. Retrieved July 2, 2025.
